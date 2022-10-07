@@ -40,7 +40,7 @@
     <string name="state">రాష్ట్రం</string>
     <string name="sus_desc">అనుమానాస్పద స్వరూపం</string>
     <string name="smap">సంఘటన స్థలం</string>
-    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">"API KEY"</string>
     <string name="zoomout">-</string>
     <string name="zoomin">+</string>
     <string name="do_you_have_any_proof">మీ దగ్గర ఏదైనా రుజువు ఉందా?</string>
