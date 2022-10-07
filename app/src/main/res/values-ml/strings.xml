@@ -40,7 +40,7 @@
     <string name="state">സംസ്ഥാനം</string>
     <string name="sus_desc">സംശയാസ്പദമായ രൂപം</string>
     <string name="smap">സംഭവ സ്ഥലം</string>
-    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">"API KEY"</string>
     <string name="zoomout">-</string>
     <string name="zoomin">+</string>
     <string name="do_you_have_any_proof">നിങ്ങളുടെ പക്കൽ എന്തെങ്കിലും തെളിവുണ്ടോ?</string>
