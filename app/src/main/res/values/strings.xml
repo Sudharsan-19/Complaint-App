@@ -39,7 +39,7 @@
     <string name="state">State</string>
     <string name="sus_desc">Suspect Appearance</string>
     <string name="smap">Incident place</string>
-    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">"API_KEY"</string>
     <string name="zoomout">-</string>
     <string name="zoomin">+</string>
     <string name="do_you_have_any_proof">Do you have any proof?</string>
