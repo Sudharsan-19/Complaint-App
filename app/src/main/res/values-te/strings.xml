@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ఫిర్యాదు యాప్</string>
+    <string name="sudharsan">©సుదర్శన్</string>
+    <string name="textview">టెక్స్ట్ వ్యూ</string>
+    <string name="a_ncb_initiative">ఒక NCB చొరవ</string>
+    <string name="sudharsan1">©సుదర్శన్</string>
+    <string name="TextView2">ఇక్కడ భాగస్వామ్యం చేయబడిన మొత్తం సమాచారం పూర్తిగా అనామకంగా ఉంటుంది. మేము ఫిర్యాదును ధృవీకరించడానికి OTP ధృవీకరణ మాత్రమే చేస్తాము.</string>
+    <string name="HomeButton1">Complaint</string>
+    <string name="TextView1">ఈ NCB చొరవలో భాగమైనందుకు ధన్యవాదాలు. నార్కోటిక్స్ కంట్రోల్ బ్యూరో యొక్క ముఖ్య ఉద్దేశ్యం అఖిల భారత స్థాయిలో మాదకద్రవ్యాల అక్రమ రవాణాపై పోరాడడం. చట్టవిరుద్ధమైన మాదకద్రవ్యాల కార్యకలాపాలపై సాధారణ ప్రజలు ఎన్‌సిబికి ఫిర్యాదు చేయడానికి ఈ వేదిక. భారతదేశాన్ని బాగు చేద్దాం.</string>
+    <string name="ncblogo">ncbలోగో</string>
+    <string name="ScreenView">\@String/ScreenView</string>
+    <string name="send_otp">OTPని పంపండి</string>
+    <string name="name">పేరు</string>
+    <string name="otp">OTP</string>
+    <string name="verify">ధృవీకరించండి</string>
+    <string name="didnt_receive_click_to_resend">అందుకోలేదా? మళ్లీ పంపడానికి క్లిక్ చేయండి</string>
+    <string name="cbnlogo">cbn</string>
+    <string name="verification">ధృవీకరణ</string>
+    <string name="the_collected_information_willl_be_stored_anonymously">సేకరించిన సమాచారం అనామకంగా నిల్వ చేయబడుతుంది.</string>
+    <string name="_91">+91-</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="enter_your_mobile_number">మీ మొబైల్ నెంబర్ ను ఎంటర్ చేయండి</string>
+    <string name="enter_the_otp_sent_to">పంపిన OTPని నమోదు చేయండి</string>
+    <string name="didn_t_receive_the_otp">OTPని అందుకోలేదా?</string>
+    <string name="resend_otp">OTP ను మళ్ళీ పంపు</string>
+    <string name="get_otp">otp పొందండి</string>
+    <string name="verify_otp">OTPని ధృవీకరించండి</string>
+    <string name="this_is_complaint_formmmmmmmmmmmm">ఇది ఫిర్యాదు ఫారమ్</string>
+    <string name="complainant_details">ఫిర్యాదుదారు వివరాలు:</string>
+    <string name="enter_complainant_name">ఫిర్యాదుదారు పేరు నమోదు చేయండి:</string>
+    <string name="enter_complainant_maild_id">ఫిర్యాదుదారు మెయిల్ ఐడిని నమోదు చేయండి</string>
+    <string name="complaint_details">ఫిర్యాదు వివరాలు</string>
+    <string name="enter_suspect_name">అనుమానిత పేరును నమోదు చేయండి</string>
+    <string name="place_of_occurence">సంభవించిన ప్రదేశం</string>
+    <string name="date_of_occurence">సంభవించిన తేదీ</string>
+    <string name="Details">వివరణ</string>
+    <string name="time_of_occurence">సంభవించిన సమయం</string>
+    <string name="select">ఫిర్యాదు వర్గం</string>
+    <string name="state">రాష్ట్రం</string>
+    <string name="sus_desc">అనుమానాస్పద స్వరూపం</string>
+    <string name="smap">సంఘటన స్థలం</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="zoomout">-</string>
+    <string name="zoomin">+</string>
+    <string name="do_you_have_any_proof">మీ దగ్గర ఏదైనా రుజువు ఉందా?</string>
+    <string name="mark_the_exact_location">ఖచ్చితమైన స్థానాన్ని గుర్తించండి</string>
+    <string name="Language">భాష</string>
+    <string name="submit">సమర్పించండి</string>
+    <string name="yes">అవును</string>
+    <string name="no">నం</string>
+    <string-array name="items12">
+        <item>అక్రమ మాదక ద్రవ్యాల సాగు</item>
+        <item>అక్రమ మందుల పంపిణీ</item>
+        <item>అక్రమ మాదక ద్రవ్యాల వినియోగం</item>
+        <item>ఫార్మాస్యూటికల్స్ ద్వారా అక్రమ మాదకద్రవ్యాల రవాణా</item>
+    </string-array>
+</resources>

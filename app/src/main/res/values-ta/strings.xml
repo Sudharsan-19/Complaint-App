@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">புகார் ஆப்</string>
+    <string name="sudharsan">©சுதர்சன்</string>
+    <string name="textview">உரை பார்வை</string>
+    <string name="a_ncb_initiative">ஒரு NCB முயற்சி</string>
+    <string name="sudharsan1">©சுதர்சன்</string>
+    <string name="TextView2">இங்கு பகிரப்படும் அனைத்து தகவல்களும் முற்றிலும் அநாமதேயமாக இருக்கும். புகாரைச் சரிபார்க்க OTP சரிபார்ப்பைச் செய்கிறோம்.</string>
+    <string name="HomeButton1">புகார்</string>
+    <string name="TextView1">இந்த NCB முயற்சியின் ஒரு பகுதியாக இருப்பதற்கு நன்றி. போதைப்பொருள் கட்டுப்பாட்டுப் பணியகத்தின் முக்கிய நோக்கம், அகில இந்திய அளவில் போதைப்பொருள் கடத்தலை எதிர்த்துப் போராடுவதாகும். பொது மக்கள் சட்டவிரோத போதைப்பொருள் நடவடிக்கைகள் குறித்து NCB க்கு புகார் அளிப்பதற்காக இந்த தளம் உள்ளது. இந்தியாவை மேம்படுத்துவோம்.</string>
+    <string name="ncblogo">சின்னம்</string>
+    <string name="ScreenView">\@String/திரைக்காட்சி</string>
+    <string name="send_otp">OTP அனுப்பவும்</string>
+    <string name="name">பெயர்</string>
+    <string name="otp">OTP</string>
+    <string name="verify">சரிபார்க்கவும்</string>
+    <string name="didnt_receive_click_to_resend">பெறவில்லையா? மீண்டும் அனுப்ப கிளிக் செய்யவும்</string>
+    <string name="cbnlogo">சின்னம்</string>
+    <string name="verification">சரிபார்ப்பு</string>
+    <string name="the_collected_information_willl_be_stored_anonymously">சேகரிக்கப்பட்ட தகவல்கள் அநாமதேயமாக சேமிக்கப்படும்.</string>
+    <string name="_91">+91-</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="enter_your_mobile_number">உங்களுடைய கைபேசி எண்ணை உள்ளிடவும்</string>
+    <string name="enter_the_otp_sent_to">அனுப்பப்பட்ட OTP ஐ உள்ளிடவும்</string>
+    <string name="didn_t_receive_the_otp">OTP பெறவில்லையா?</string>
+    <string name="resend_otp">OTP ஐ மீண்டும் அனுப்பு</string>
+    <string name="get_otp">OTP பெறவும்</string>
+    <string name="verify_otp">OTP சரிபார்க்கவும்</string>
+    <string name="this_is_complaint_formmmmmmmmmmmm">இது புகார் படிவம் ம்ம்ம்ம்ம்ம்ம்ம்ம்ம்ம்</string>
+    <string name="complainant_details">புகார்தாரர் விவரம்:</string>
+    <string name="enter_complainant_name">புகார்தாரரின் பெயரை உள்ளிடவும்:</string>
+    <string name="enter_complainant_maild_id">புகார்தாரர் அஞ்சல் ஐடி</string>
+    <string name="complaint_details">புகார் விவரங்கள்</string>
+    <string name="enter_suspect_name">சந்தேக நபர் பெயரை உள்ளிடவும்</string>
+    <string name="place_of_occurence">நிகழும் இடம்</string>
+    <string name="date_of_occurence">நிகழ்வு தேதி</string>
+    <string name="Details">விளக்கம்</string>
+    <string name="time_of_occurence">நிகழ்வு நேரம்</string>
+    <string name="select">புகார் வகை</string>
+    <string name="state">நாடு</string>
+    <string name="sus_desc">சந்தேகத்திற்கிடமான தோற்றம்</string>
+    <string name="smap">சம்பவம் நடந்த இடம்</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="zoomout">-</string>
+    <string name="zoomin">+</string>
+    <string name="do_you_have_any_proof">உங்களிடம் ஏதேனும் ஆதாரம் உள்ளதா?</string>
+    <string name="mark_the_exact_location">சரியான இடத்தைக் குறிக்கவும்</string>
+    <string name="Language">மொழி</string>
+    <string name="submit">சமர்ப்பிக்கவும்</string>
+    <string name="yes">ஹாம்</string>
+    <string name="no">இல்லை</string>
+    <string-array name ="items12">
+        <item>சட்டவிரோத போதைப்பொருள் சாகுபடி</item>
+        <item>சட்டவிரோத போதைப்பொருள் விநியோகம்</item>
+        <item>சட்டவிரோத போதைப்பொருள் பயன்பாடு</item>
+        <item>மருந்துகள் மூலம் சட்டவிரோத போதைப்பொருள் கடத்தல்</item>
+    </string-array>
+</resources>

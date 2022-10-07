@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">പരാതി ആപ്പ്</string>
+    <string name="sudharsan">©സുദർശൻ</string>
+    <string name="textview">ടെക്സ്റ്റ് വ്യൂ</string>
+    <string name="a_ncb_initiative">ഒരു NCB സംരംഭം</string>
+    <string name="sudharsan1">©സുദർശൻ</string>
+    <string name="TextView2">ഇവിടെ പങ്കിടുന്ന എല്ലാ വിവരങ്ങളും പൂർണ്ണമായും അജ്ഞാതമായിരിക്കും. പരാതി സാധൂകരിക്കാൻ ഞങ്ങൾ OTP പരിശോധന നടത്തുന്നു.</string>
+    <string name="HomeButton1">പരാതി</string>
+    <string name="TextView1">ഈ NCB സംരംഭത്തിന്റെ ഭാഗമായതിന് നന്ദി. നാർക്കോട്ടിക് കൺട്രോൾ ബ്യൂറോയുടെ മുഖ്യ ഉദ്ദേശം, അഖിലേന്ത്യാ തലത്തിൽ മയക്കുമരുന്ന് കടത്ത് ചെറുക്കുക എന്നതാണ്. നിയമവിരുദ്ധമായ മയക്കുമരുന്ന് പ്രവർത്തനങ്ങളെക്കുറിച്ച് പൊതുജനങ്ങൾക്ക് എൻസിബിക്ക് പരാതി നൽകാനുള്ളതാണ് ഈ പ്ലാറ്റ്ഫോം. നമുക്ക് ഇന്ത്യയെ മികച്ചതാക്കാം.</string>
+    <string name="ncblogo">ncbലോഗോ</string>
+    <string name="ScreenView">\@String/ScreenView</string>
+    <string name="send_otp">OTP അയയ്ക്കുക</string>
+    <string name="name">പേര്</string>
+    <string name="otp">OTP</string>
+    <string name="verify">സ്ഥിരീകരിക്കുക</string>
+    <string name="didnt_receive_click_to_resend">കിട്ടിയില്ലേ? വീണ്ടും അയക്കാൻ ക്ലിക്ക് ചെയ്യുക</string>
+    <string name="cbnlogo">cbn</string>
+    <string name="verification">സ്ഥിരീകരണം</string>
+    <string name="the_collected_information_willl_be_stored_anonymously">ശേഖരിക്കുന്ന വിവരങ്ങൾ അജ്ഞാതമായി സൂക്ഷിക്കും.</string>
+    <string name="_91">+91-</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="enter_your_mobile_number">നിങ്ങളുടെ മൊബൈൽ നമ്പർ നൽകുക</string>
+    <string name="enter_the_otp_sent_to">അയച്ച OTP നൽകുക</string>
+    <string name="didn_t_receive_the_otp">OTP ലഭിച്ചില്ലേ?</string>
+    <string name="resend_otp">OTP വീണ്ടും അയയ്‌ക്കുക</string>
+    <string name="get_otp">ഒടിപി നേടുക</string>
+    <string name="verify_otp">ഒടിപി പരിശോധിക്കുക</string>
+    <string name="this_is_complaint_formmmmmmmmmmmm">ഇതാണ് പരാതി</string>
+    <string name="complainant_details">പരാതിക്കാരന്റെ വിശദാംശങ്ങൾ:</string>
+    <string name="enter_complainant_name">പരാതിക്കാരന്റെ പേര് നൽകുക:</string>
+    <string name="enter_complainant_maild_id">പരാതിക്കാരന്റെ മെയിൽ ഐഡി നൽകുക</string>
+    <string name="complaint_details">പരാതിയുടെ വിശദാംശങ്ങൾ</string>
+    <string name="enter_suspect_name">സംശയാസ്പദമായ പേര് നൽകുക</string>
+    <string name="place_of_occurence">സംഭവസ്ഥലം</string>
+    <string name="date_of_occurence">സംഭവ തീയതി</string>
+    <string name="Details">വിവരണം</string>
+    <string name="time_of_occurence">സംഭവ സമയം</string>
+    <string name="select">പരാതിയുടെ വിഭാഗം</string>
+    <string name="state">സംസ്ഥാനം</string>
+    <string name="sus_desc">സംശയാസ്പദമായ രൂപം</string>
+    <string name="smap">സംഭവ സ്ഥലം</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="zoomout">-</string>
+    <string name="zoomin">+</string>
+    <string name="do_you_have_any_proof">നിങ്ങളുടെ പക്കൽ എന്തെങ്കിലും തെളിവുണ്ടോ?</string>
+    <string name="mark_the_exact_location">കൃത്യമായ സ്ഥാനം അടയാളപ്പെടുത്തുക</string>
+    <string name="Language">ഭാഷ</string>
+    <string name="submit">സമർപ്പിക്കുക</string>
+    <string name="yes">അതെ</string>
+    <string name="no">ഇല്ല</string>
+    <string-array name="items12">
+        <item>അനധികൃത മയക്കുമരുന്ന് കൃഷി</item>
+        <item>അനധികൃത മയക്കുമരുന്ന് വിതരണം</item>
+        <item>അനധികൃത മയക്കുമരുന്ന് ഉപയോഗം</item>
+        <item>ഫാർമസ്യൂട്ടിക്കൽസ് വഴിയുള്ള അനധികൃത മയക്കുമരുന്ന് കടത്ത്</item>
+    </string-array>
+</resources>

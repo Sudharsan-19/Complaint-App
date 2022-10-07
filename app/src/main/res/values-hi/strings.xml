@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शिकायत ऐप</string>
+    <string name="sudharsan">©सुदर्शन</string>
+    <string name="textview">व्याख्यान दर्शन</string>
+    <string name="a_ncb_initiative">एक एनसीबी पहल</string>
+    <string name="sudharsan1">©सुदर्शन</string>
+    <string name="TextView2">यहां साझा की गई सभी जानकारी पूरी तरह से गुमनाम होगी। हम शिकायत को मान्य करने के लिए सिर्फ ओटीपी सत्यापन करते हैं।</string>
+    <string name="HomeButton1">शिकायत</string>
+    <string name="TextView1">इस एनसीबी पहल का हिस्सा बनने के लिए धन्यवाद। नारकोटिक्स कंट्रोल ब्यूरो का मुख्य उद्देश्य अखिल भारतीय स्तर पर मादक पदार्थों की तस्करी से लड़ना है। यह मंच आम लोगों के लिए अवैध ड्रग गतिविधियों के बारे में एनसीबी से शिकायत करने के लिए है। आइए हम भारत को बेहतर बनाएं।</string>
+    <string name="ncblogo">एनसीब्लॉगो</string>
+    <string name="ScreenView">\@String/स्क्रीन दृश्य</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="name">नाम</string>
+    <string name="otp">OTP</string>
+    <string name="verify">सत्यापित करें</string>
+    <string name="didnt_receive_click_to_resend">प्राप्त नहीं हुआ? पुनः भेजने के लिए क्लिक करें</string>
+    <string name="cbnlogo">सीबीएन</string>
+    <string name="verification">सत्यापन</string>
+    <string name="the_collected_information_willl_be_stored_anonymously">एकत्रित जानकारी को गुमनाम रूप से संग्रहीत किया जाएगा।</string>
+    <string name="_91">+91-</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="enter_your_mobile_number">अपना मोबाइल संख्या दर्ज करे</string>
+    <string name="enter_the_otp_sent_to">को भेजा गया ओटीपी दर्ज करें</string>
+    <string name="didn_t_receive_the_otp">ओटीपी प्राप्त नहीं हुआ?</string>
+    <string name="resend_otp">ओटीपी पुनः भेजें</string>
+    <string name="get_otp">ओटीपी प्राप्त करें</string>
+    <string name="verify_otp">ओटीपी सत्यापित करें</string>
+    <string name="this_is_complaint_formmmmmmmmmmmm">यह शिकायत प्रपत्र हैmmmmmmmmmmmm</string>
+    <string name="complainant_details">शिकायतकर्ता विवरण:</string>
+    <string name="enter_complainant_name">शिकायतकर्ता का नाम दर्ज करें:</string>
+    <string name="enter_complainant_maild_id">शिकायतकर्ता मेल आईडी दर्ज करें</string>
+    <string name="complaint_details">शिकायत विवरण</string>
+    <string name="enter_suspect_name">संदिग्ध नाम दर्ज करें</string>
+    <string name="place_of_occurence">घटना का स्थान</string>
+    <string name="date_of_occurence">घटना की तिथि</string>
+    <string name="Details">विवरण</string>
+    <string name="time_of_occurence">घटना का समय</string>
+    <string name="select">शिकायत की श्रेणी</string>
+    <string name="state">राज्य</string>
+    <string name="sus_desc">संदिग्ध उपस्थिति</string>
+    <string name="smap">घटना स्थल</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="zoomout">-</string>
+    <string name="zoomin">+</string>
+    <string name="do_you_have_any_proof">क्या आपके पास कोई सबूत है?</string>
+    <string name="mark_the_exact_location">सटीक स्थान चिह्नित करें</string>
+    <string name="Language">भाषा</string>
+    <string name="submit">प्रस्तुत करना</string>
+    <string name="yes">हां</string>
+    <string name="no">ना</string>
+    <string-array name ="items12">
+        <item>अवैध दवा की खेती</item>
+        <item>अवैध दवा वितरण</item>
+        <item>अवैध दवा का उपयोग</item>
+        <item>फार्मास्यूटिकल्स द्वारा अवैध नशीली दवाओं की तस्करी</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Complaint App</string>
+    <string name="sudharsan">©Sudharsan</string>
+    <string name="textview">TextView</string>
+    <string name="a_ncb_initiative">A NCB initiative</string>
+    <string name="sudharsan1">©sudharsan</string>
+    <string name="TextView2">All the information shared here will be completely anonymous. We just do OTP verification to validate the complaint.</string>
+    <string name="HomeButton1">Complaint</string>
+    <string name="TextView1">Thank you for being part of this NCB initiative. The chief purpose of the Narcotics Control Bureau is to fight drug trafficking on an all-India level. This platform is for the general people to complain about illegal drug activities to NCB. Let us make India better.</string>
+    <string name="ncblogo">ncblogo</string>
+    <string name="ScreenView">\@String/ScreenView</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="name">Name</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+    <string name="didnt_receive_click_to_resend">Didnt Receive? Click to resend</string>
+    <string name="cbnlogo">cbn</string>
+    <string name="verification">Verification</string>
+    <string name="the_collected_information_willl_be_stored_anonymously">The collected information willl be stored anonymously.</string>
+    <string name="_91">+91-</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="get_otp">Get otp</string>
+    <string name="verify_otp">Verify otp</string>
+    <string name="this_is_complaint_formmmmmmmmmmmm">THis is complaint formmmmmmmmmmmm</string>
+    <string name="complainant_details">Complainant Details:</string>
+    <string name="enter_complainant_name">Enter Complainant name:</string>
+    <string name="enter_complainant_maild_id">Enter complainant mail id</string>
+    <string name="complaint_details">Complaint Details</string>
+    <string name="enter_suspect_name">Enter Suspect name</string>
+    <string name="place_of_occurence">Place of Occurence</string>
+    <string name="date_of_occurence">Date of Occurence</string>
+    <string name="Details">Description</string>
+    <string name="time_of_occurence">Time of Occurence</string>
+    <string name="select">Category of complaint</string>
+    <string name="state">State</string>
+    <string name="sus_desc">Suspect Appearance</string>
+    <string name="smap">Incident place</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="zoomout">-</string>
+    <string name="zoomin">+</string>
+    <string name="do_you_have_any_proof">Do you have any proof?</string>
+    <string name="mark_the_exact_location">Mark the Exact location</string>
+    <string name="Language">Language</string>
+    <string name="submit">Submit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string-array name="items12">
+        <item>Illicit drug cultivation</item>
+        <item>Illicit drug distribution</item>
+        <item>Illicit drug usage</item>
+        <item>Illicit drug trafficiking by pharmaceuticals</item>
+    </string-array>
+</resources>
