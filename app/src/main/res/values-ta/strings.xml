@@ -40,7 +40,7 @@
     <string name="state">நாடு</string>
     <string name="sus_desc">சந்தேகத்திற்கிடமான தோற்றம்</string>
     <string name="smap">சம்பவம் நடந்த இடம்</string>
-    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">"API KEY"</string>
     <string name="zoomout">-</string>
     <string name="zoomin">+</string>
     <string name="do_you_have_any_proof">உங்களிடம் ஏதேனும் ஆதாரம் உள்ளதா?</string>
