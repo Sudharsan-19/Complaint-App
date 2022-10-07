@@ -40,7 +40,7 @@
     <string name="state">राज्य</string>
     <string name="sus_desc">संदिग्ध उपस्थिति</string>
     <string name="smap">घटना स्थल</string>
-    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvb_adVj8JO9C8XToAEA1cbMrj1g1xzQQ</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">"API KEY"</string>
     <string name="zoomout">-</string>
     <string name="zoomin">+</string>
     <string name="do_you_have_any_proof">क्या आपके पास कोई सबूत है?</string>
